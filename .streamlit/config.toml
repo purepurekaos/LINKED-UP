@@ -1,0 +1,18 @@
+[theme]
+base = "dark"
+primaryColor = "#6D5DF2"
+backgroundColor = "#0B1120"
+secondaryBackgroundColor = "#141B2E"
+textColor = "#F4F6FB"
+borderColor = "rgba(255,255,255,0.08)"
+linkColor = "#8B7FF5"
+baseRadius = "1rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = false
+codeFont = "monospace"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
