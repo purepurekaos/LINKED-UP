@@ -1,1 +1,1 @@
-#FUCK YOU CALUM LOL
+print("hello world lol")
